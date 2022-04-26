@@ -1,0 +1,124 @@
+.main{ 
+    display: flex;
+} 
+
+.travel-log {
+    justify-content: center;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    border: 5px solid #E6DCA8;
+    width: 500px; 
+    background-color: #B9D0EB;
+    margin: 13px;
+    padding: 10px;
+}
+
+
+
+.mond {
+    border: 5px solid white;
+    width: 300px;
+}
+
+.liyue {
+    border: 5px solid white;
+    width: 300px;
+}
+
+.ina {
+    border: 5px solid white;
+    width: 300px;
+}
+
+.lumine-intro {
+    background-color: #BACCBC;
+    border: 5px solid #E6DCA8;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 17px;
+    color: #E6DCA8;
+    padding: 10px;
+    margin: 13px;
+}
+
+.proud-lumine {
+    border: 5px solid #E6DCA8;
+    width: 200px;
+}
+
+.navigation-bar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.home {
+    border: 3px solid #E6DCA8;
+    padding: 3px;
+    background-color: lightgrey;
+}
+
+.allies {
+    border: 3px solid #E6DCA8;
+    padding: 3px;
+    background-color: lightgrey;
+}
+
+.news {
+    border: 3px solid #E6DCA8;
+    padding: 3px;
+    background-color: lightgrey;
+}
+
+.aether {
+    border: 5px solid white;
+    width: 250px;
+}
+
+.posts {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    border: 5px solid #E6DCA8;
+    background-color: #C7BDD9;
+    margin: 10px;
+    padding: 10px;
+    width: 700px;
+}
+
+.friends {
+    justify-content: center;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    border: 5px solid #E6DCA8;
+    width: 500px; 
+    background-color: #EBD1DF;
+    margin: 13px;
+    padding: 10px;
+}
+
+.barbs{
+    border: 5px solid white;
+    width: 300px;
+}
+
+.noelle{
+    border: 5px solid white;
+    width: 300px;
+}
+
+.ben{
+    border: 5px solid white;
+    width: 300px;
+}
+body {
+    background-color: white;
+}
+
+.date{ 
+    border: 3px solid white;
+}
